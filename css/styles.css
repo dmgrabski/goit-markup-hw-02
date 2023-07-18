@@ -1,0 +1,17 @@
+style
+:root{
+    --background-color: #F5F4FA;
+
+}
+ 
+
+body {
+font-family: "Roboto" , sans-serif;
+
+}
+a:hover {
+    color: #2196F3;
+}
+button:hover {
+    color: #FFFFFF;
+}
